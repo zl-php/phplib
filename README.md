@@ -1,2 +1,2 @@
 # phplib
-PHP 常用函数库
+PHP 通用Lib
